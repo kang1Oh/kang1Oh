@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @kang1Oh
-- 👀 I’m interested in art, music, video games
-- 🌱 I’m currently learning java, php, godot, unreal engine, blender
-- [![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,php,figma,blender,godot,unreal)](https://skillicons.dev)
-- 💞️ I’m looking to collaborate on games, projects, etcetera
-- 📫 How to reach me kangteoh19@gmail.com, saltwithglasses@gmail.com, @saltwithglasses on fb, twitter, instagram, and itch.io
-- 😄 Pronouns: do not refer to me thank u
+- 👋 Hi, I’m @kang1Oh, O as in the letter
+- 👀 I’m interested in art, music, writing, video games, and programming
+- 🌱 I’m currently learning: [![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,php,figma,blender,godot,unreal)](https://skillicons.dev)
+- 🕹️ Working on: "Truth in Fragments"(VN), "The Hospital Visit"(RPG)
+- 📫 How to reach me: kangteoh19@gmail.com, saltwithglasses@gmail.com, @saltwithglasses on fb, twitter, instagram, youtube, and itch.io
+- 😄 Pronouns: you can use any of them
 - ⚡ Fun fact: tomatoes are fruits but are considered vegetables for culinary purposes
 
 <!---
