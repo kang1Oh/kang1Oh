@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kang1Oh, O as in the letter
+- 👋 Hi, I’m Kang Te-Oh (Not my real name)
 - 👀 I’m interested in art, music, writing, video games, and programming
 - 🌱 I’m currently learning: [![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,php,figma,blender,godot,unreal)](https://skillicons.dev)
 - 🕹️ Working on: "Truth in Fragments"(VN), "The Hospital Visit"(RPG)
