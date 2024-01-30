@@ -1,13 +1,17 @@
 <div align="center">
   <img alt="Man breaking down from being stuck inside the internet" height="200" src="exploring the internet.gif">
 </div>
-- 👋 Hi, I’m Kang Te-Oh (Not my real name)
-- 👀 I’m interested in art, music, writing, video games, and programming
-- 🌱 I’m currently learning: [![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,php,figma,blender,godot,unreal)](https://skillicons.dev)
-- 🕹️ Working on: "Truth in Fragments"(VN), "The Hospital Visit"(RPG)
-- 📫 How to reach me: kangteoh19@gmail.com, saltwithglasses@gmail.com, @saltwithglasses on fb, twitter, instagram, youtube, and itch.io
-- 😄 Pronouns: you can use any of them
-- ⚡ Fun fact: tomatoes are fruits but are considered vegetables for culinary purposes
+
+<p>
+  <br />- 👋 Hi, I’m Kang Te-Oh (Not my real name)
+  <br />- 👀 I’m interested in art, music, writing, video games, and programming
+  <br />- 🌱 I’m currently learning: [![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,php,figma,blender,godot,unreal)](https://skillicons.dev)
+  <br />- 🕹️ Working on: "Truth in Fragments"(VN), "The Hospital Visit"(RPG)
+  <br />- 📫 How to reach me: kangteoh19@gmail.com, saltwithglasses@gmail.com, @saltwithglasses on fb, twitter, instagram, youtube, and itch.io
+  <br />- 😄 Pronouns: you can use any of them
+  <br />- ⚡ Fun fact: tomatoes are fruits but are considered vegetables for culinary purposes
+</p>
+
 
 <!---
 kang1Oh/kang1Oh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
