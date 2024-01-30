@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Man breaking down from being stuck inside the internet" height="400" src="exploring the internet.gif">
+  <img alt="Man breaking down from being stuck inside the internet" height="200" src="exploring the internet.gif">
 </div>
 - 👋 Hi, I’m Kang Te-Oh (Not my real name)
 - 👀 I’m interested in art, music, writing, video games, and programming
