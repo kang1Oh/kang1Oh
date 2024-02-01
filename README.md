@@ -3,9 +3,8 @@
   <dd>
     <dl>
       <dd>
-        <img src="initial stage.gif" alt="Man waking up inside his Windows XP computer" width="25%" align="right"/>
+        <img src="initial stage.gif" alt="Man waking up inside his Windows XP computer" width="27%" align="right"/>
         <p>
-          <br />
           <br /> Testing . . . 1 . 2 . . 3
           <br />
           <br /> My name is Kang Te-Oh
@@ -18,7 +17,8 @@
           <br /> interested in art, music, writing, video games, and programming
           <br /> Maybe that I explains how I got here. Sigh ( – ⌓ – )
           <br />
-          <br /> I then entered the internet, and this is where I've lived ever since.
+          <br /> I then entered the internet, and this is where I've lived ever since (kangteoh19@gmail.com, @saltwithglasses in other SMs).
+          <br />
           <br /> This is one of the places I found in the internet that's 
           <br /> very familiar to me, so now I consider it home.
         </p>
@@ -33,13 +33,13 @@
   <dd>
     <dl>
       <dd>
-        <img src="intro.gif" alt="Man breaking down because he's stuck in the internet" width="25%" align="left"/>
+        <img src="intro.gif" alt="Man breaking down because he's stuck in the internet" width="27%" align="left"/>
         <p>
           <br /> Before, finding corners in the web that felt familiar was near impossible. 
           <br /> Every link led to another, and each page was drastically different from the last. 
           <br /> I keep discovering new things to see and feel the deeper I go.
           <br /> It was so different from how thing look and work these days.
-          <br /> I don't hate it though. TIt's easier to find art, code and games now.
+          <br /> I don't hate it though. It's easier to find art, code and games now.
           <br />
           <br /> While wandering the internet 
           <img src="readme deco 2.png" alt="ReadMe decorations" width="25%" align="right"/>
@@ -57,6 +57,7 @@
     </dl>
   </dd>
 </div>
+<br />
 <br />
 <div align="center">
   <dd>
@@ -111,8 +112,10 @@
 
 
 <div align="center">
+  <img src="https://profile-counter.glitch.me/kang1Oh/count.svg" alt="hit counter" align="center">
   <img src="readme footer.png" style="max-width: 100%;" alt="windows XP toolbar" />
 </div>
+
 <!---
 kang1Oh/kang1Oh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
