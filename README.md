@@ -81,8 +81,30 @@
   <dd>
     <dl>
       <dd>
-        <br /> But... Almost 19 years of being stuck here, I'm starting to feel its effects on me.
-        <br /> Billions of webpages and internet users, and they don't know I exist inside.
+        <p>
+          <br /> But... Almost 19 years of being stuck here, I'm starting to feel its effects on me.
+          <br /> Billions of webpages and internet users, and they don't know I exist inside.
+          <br />
+        </p>
+        <img src="breakdown.gif" alt="The internet is starting to decay around him">
+        <p>
+          <br /> I want out. I can feel myself melting away. 
+          <br /> I was happy, at least I thought I was. But this was still a prison. 
+          <br /> I need to get to my computer. I don't know where it is.. 
+          <br /> I don't know where I am..
+          <br /> There's just so many screens on all at once. But none of them had freed me.
+          <br />
+          <br /> The ones I've tried have all been broken.
+          <br /> The ones I've tried have all been broken.
+          <br /> The ones I've tried have all been broken.
+          <br /> The ones I've tried have all been. . .
+          <br />
+          <br /> The ones I've tried have all been fine, but it wasn't the right exit.
+          <br /> Maybe the next one would be it.
+          <br /> Hey... this screen is on. This computer is on. Is this yours?
+        </p>
+        <img src="revenge.gif" alt="Uh oh..">
+          <br /> Can̴̹͈̎ y̴̢͇͉̒o̵̯̽͘u̴͎̩̱͋͑͝ h̸͚̞̆̄̕e̵̖̔̓ḷ̸̓p̶͠ m̷̌̓̏́̏e̵?̶̓
       </dd>
     </dl>
   </dd>
