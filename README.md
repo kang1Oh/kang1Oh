@@ -114,6 +114,9 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/kang1Oh/count.svg" alt="hit counter" align="center">
   <img src="readme footer.png" style="max-width: 100%;" alt="windows XP toolbar" />
+  <p>
+    Disclaimer: Character and art is not mine; Character is Doppo Kannonzaka from Hypnosis Mic, fanarts were found on Pinterest.
+  </p>
 </div>
 
 <!---
