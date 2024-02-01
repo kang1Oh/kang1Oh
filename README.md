@@ -4,37 +4,29 @@
     <dl>
       <dd>
         <img src="intro.gif" alt="Man breaking down from being stuck inside the internet" width="25%" align="right"/>
+        <p>
+          <br />
+          <br /> Testing . . . 1 . 2 . . 3
+          <br />
+          <br /> My name is Kang Te-Oh
+          <br /> I was a programmer in the past, working 9-5 day in and
+          <br /> day out, with little breaks in between. In 2005, I suddenly
+          <br /> woke up inside the internet.
+          <br />
+          <br /> I don't remember much from the real world, except that I was
+          <br /> interested in art, music, writing, video games, and programming
+          <br /> Maybe that I explains how I got here. Sigh ( – ⌓ – )
+          <br />
+          <br /> This is one of the places I found on the internet that's 
+          <br /> very familiar to me, so now I consider it home.
+        </p>
       </dd>
     </dl>
   </dd>
 </div>
 
-<dl>
-  <dd>
-    <p>
-      <br>
-      <br>
-      <br />- 👋 Hi, I’m Kang Te-Oh (Not my real name)
-      <br />- 👀 I’m interested in art, music, writing, video games, and programming
-      <br />- 🌱 I’m currently learning: 
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,mysql,html,css,php,figma,blender,godot,unreal" />
-        </a>
-      <br />- 🕹️ Working on: "Truth in Fragments"(VN), "The Hospital Visit"(RPG)
-      <br />- 📫 How to reach me: kangteoh19@gmail.com, saltwithglasses@gmail.com, 
-      <br />      @saltwithglasses on fb, twitter, instagram, youtube, and itch.io
-      <br />- 😄 Pronouns: you can use any of them
-      <br />- ⚡ Fun fact: tomatoes are fruits but are considered vegetables for culinary purposes
-    </p>
-  </dd>
-</dl>
-
-
 
 <div align="center">
-  <br/>
-  <br/>
-  <br/>
   <img src="readme footer.png" style="max-width: 100%;" alt="windows XP toolbar" />
 </div>
 <!---
