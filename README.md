@@ -3,7 +3,7 @@
   <dd>
     <dl>
       <dd>
-        <img src="intro.gif" alt="Man breaking down from being stuck inside the internet" width="25%" align="right"/>
+        <img src="initial stage.gif" alt="Man waking up inside his Windows XP computer" width="25%" align="right"/>
         <p>
           <br />
           <br /> Testing . . . 1 . 2 . . 3
@@ -14,6 +14,7 @@
           <br /> woke up inside the internet.
           <br />
           <br /> I don't remember much from the real world, except that I was
+          <img src="readme deco 1.png" alt="ReadMe decorations" width="25%" align="left"/>
           <br /> interested in art, music, writing, video games, and programming
           <br /> Maybe that I explains how I got here. Sigh ( – ⌓ – )
           <br />
