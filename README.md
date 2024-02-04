@@ -15,7 +15,7 @@
           <br /> I don't remember much from the real world, except that I was
           <img src="readme deco 1.png" alt="ReadMe decorations" width="25%" align="left"/>
           <br /> interested in art, music, writing, video games, and programming
-          <br /> Maybe that I explains how I got here. Sigh ( – ⌓ – )
+          <br /> Maybe that explains how I got here. Sigh ( – ⌓ – )
           <br />
           <br /> I then entered the internet, and this is where I've lived ever since (kangteoh19@gmail.com, @saltwithglasses in other SMs).
           <br />
