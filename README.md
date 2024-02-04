@@ -38,7 +38,7 @@
           <br /> Before, finding corners in the web that felt familiar was near impossible. 
           <br /> Every link led to another, and each page was drastically different from the last. 
           <br /> I keep discovering new things to see and feel the deeper I go.
-          <br /> It was so different from how thing look and work these days.
+          <br /> It was so different from how things look and work these days.
           <br /> I don't hate it though. It's easier to find art, code and games now.
           <br />
           <br /> While wandering the internet 
