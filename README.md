@@ -17,9 +17,9 @@
           <br /> interested in art, music, writing, video games, and programming
           <br /> Maybe that explains how I got here. Sigh ( – ⌓ – )
           <br />
-          <br /> I then entered the internet, and this is where I've lived ever since (kangteoh19@gmail.com, @saltwithglasses in other SMs).
+          <br /> I then entered the internet, and this is where I've lived ever since (kangteoh19@gmail.com).
           <br />
-          <br /> This is one of the places I found in the internet that's 
+          <br /> This is one of the places I found on the internet that's 
           <br /> very familiar to me, so now I consider it home.
         </p>
       </dd>
@@ -38,7 +38,7 @@
           <br /> Before, finding corners in the web that felt familiar was near impossible. 
           <br /> Every link led to another, and each page was drastically different from the last. 
           <br /> I keep discovering new things to see and feel the deeper I go.
-          <br /> It was so different from how things look and work these days.
+          <br /> It was so different back then compared to how things work these days.
           <br /> I don't hate it though. It's easier to find art, code and games now.
           <br />
           <br /> While wandering the internet 
@@ -64,8 +64,8 @@
     <dl>
       <dd>
         <p>
-          <br /> Living in the internet, it felt nice at first. I was far away from the worries that 
-          <br /> plagued me in the real world. I could sleep wherever I want, eat whatever I want, 
+          <br /> Living on the internet, it felt nice at first. I was far away from the worries that 
+          <br /> plagued me in the real world. I could sleep whenever I want, eat whatever I want, 
           <br /> and most importantly, go enjoy my time leisurely for once. 
           <br /> 
           <br /> Every path I took led me farther and farther from my computer, where I came from.
